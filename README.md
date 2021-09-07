@@ -27,3 +27,5 @@ Restart PUBG-Radar command
 
 cd /root/pubgradar;. restart.sh
 
+
+![Image text](https://github.com/1030125713/PUBG-radar/blob/main/images/84EF766B5AB59E23D5A4D135C40AB4B4.jpg)
