@@ -35,3 +35,6 @@ Restart PUBG-Radar command
 
 ```bash
 cd /root/pubgradar;. restart.sh
+
+不懂加企鹅：295435245 
+雷达交流群：782932127
