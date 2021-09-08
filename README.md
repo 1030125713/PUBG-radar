@@ -38,4 +38,4 @@ cd /root/pubgradar;. restart.sh
 
 不懂加企鹅：295435245 
 雷达交流群：782932127
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+![image](https://github.com/1030125713/PUBG-radar/edit/main/images/295435245.png)
